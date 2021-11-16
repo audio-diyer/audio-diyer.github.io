@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "오디오 자작"
 title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "홍순모"
+name                     : "BlackBird"
 description              : "진공관 앰프, DAC, 라즈베리파이, 오픈 소스 기반의 오디오용 소프트웨어 활용하는 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "BlackBird"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"

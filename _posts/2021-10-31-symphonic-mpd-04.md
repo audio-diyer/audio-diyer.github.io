@@ -25,11 +25,15 @@ last_modified_at: 2021-10-31
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fps27--7fsQ" frameborder="0" allowfullscreen></iframe>
 
+---
+
 날씨가 서늘해 져서 45 SuperTriode 를 연결해서 구성을 변경해서 청음해봤습니다. 
 
 >아이폰7플러스 (Airplay) >>> 라즈베리파이3B+ (Allo Boss DAC PCM5122 Hat, Master 모드) >>> 프리앰프 >>> 45 SuperTriode >>> ProAc 태블릿 30주년 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AEbnNqBUhdM" frameborder="0" allowfullscreen></iframe>
+
+---
 
 라즈베리파이 3용 smpd v0.9.7 (최종)은 upnp 가 지원이 안됩니다. 그래서 애플뮤직을 Airplay 로 재생을 했습니다. 애플 무손실 (16bit/44.1k) 이고 smpd 에서 Airplay를 기본으로 지원하고 있습니다.
 

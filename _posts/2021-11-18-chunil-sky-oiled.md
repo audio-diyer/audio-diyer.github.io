@@ -39,25 +39,10 @@ last_modified_at: 2021-11-18
 
 **흐름도**
 
-소스: 아이폰 7플러스, 애플뮤직 (AirPlay)
-
-|
-
-|
-
-프리: 앰만사 프리앰프, 라즈베리파이3B+ (Symphonic MPD v0.9.6), Allo BOSS DAC (I2s)
-
-|
-
-|
-
-파워(인티)EL3nSE
-
-|
-
-|
-
-소노루-T
+* 소스: 아이폰 7플러스, 애플뮤직 (AirPlay)
+* 프리앰프: 앰만사 프리앰프, 라즈베리파이3B+ (Symphonic MPD v0.9.6), Allo BOSS DAC
+* 파워앰프: EL3nSE
+* 스피커: 소노루-T
 
 **녹음**
 * Samson Meteor 마이크, 노트북 USB 연결

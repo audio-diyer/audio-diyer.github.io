@@ -1,6 +1,6 @@
 ---
 title:  "천일전자 Sky Oiled Audio Foiled Capacitor"
-excerpt: "SMPD v1.0.10"
+excerpt: "천일전자 커플링 캐패시터"
 
 categories:
   - 캐패시터

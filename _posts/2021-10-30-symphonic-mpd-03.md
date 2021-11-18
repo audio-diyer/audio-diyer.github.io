@@ -24,7 +24,7 @@ last_modified_at: 2021-10-30
 
 ![Jitter](/assets/images/jitter.jpg)
 
-[출처](https://roundhere.tistory.com/entry/%EC%A7%80%ED%84%B0-jitter)
+[지터는 무엇일까요?](https://roundhere.tistory.com/entry/%EC%A7%80%ED%84%B0-jitter)
 
 또한 지터를 이렇게 설명한 것도 있습니다.
 
@@ -50,7 +50,7 @@ smpd에서는 이 데이터를 송출하는 타이밍을 높은 레벨로 정확
 
 # DAC 의 클럭 시스템
 
-[출처](https://nw-electric.way-nifty.com/blog/2016/02/dacess-9d4c.html)
+[DAC의 마스터 클럭에 대해 ESS는 조금 바뀌었습니까?](https://nw-electric.way-nifty.com/blog/2016/02/dacess-9d4c.html)
 
 구글의 도움을 받아서 ^^ 번역을 했습니다.
 
@@ -111,7 +111,7 @@ RaspberryPi의 I2S는 슬레이브 모드일 수 있으며 SABRE 9018Q2C는 마�
 
 diyaudio.com 에서의 라즈베리파이 i2s 시스템 (PCM5122)에 대한 도식도를 가져왔습니다.
 
-[출처](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd-post6242879.html)
+[diyAudio 라즈베리파이 i2s 시스템](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd-post6242879.html)
 
 ![rpi_masterslave](/assets/images/rpi_masterslave.png)
 

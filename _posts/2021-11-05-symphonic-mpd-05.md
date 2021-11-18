@@ -1,5 +1,5 @@
 ---
-title:  "Symphonic MPD [5] 라즈베리파이3 용 v0.9.6 사용 경험 공유"
+title:  "Symphonic MPD [5] 라즈베리파이3 용 v0.9.6 사용기"
 excerpt: "SMPD v0.9.6"
 
 categories:

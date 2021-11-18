@@ -32,7 +32,7 @@ Symphonic MPD (이하 smpd)를 설치해서 일주일 가까이 앰프, 스피�
 
 smpd 의 기술적 고찰을 위해서 참고로 할만한 정보가 부족해서 diyaudio.com 의 글타래를 시간을 내서 천천히 읽어 봤습니다.
 
-[출처](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd.html)
+[diyAudio Symphonic MPD](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd.html)
 
 많은 사람들이 등장하지 않지만 파파리우스 (papalius) 라는 아이디를 사용하는 사람이 smpd 개발자입니다. 이 외에 몇몇 아이디들이 등장하는데 제가 diyaudio.com 에서 piCorePlayer, Logitech Media Server 관련 글에서 보았던 개발자나 엔지니어로 보이는 아이디였습니다.
 
@@ -88,7 +88,7 @@ I2S signal Yellow: LRCK, Red: DATA, Blue: BCK
 
 ![smpd i2s measure 4](/assets/images/smpd_i2s_measure_04.png)
 
-[출처](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd-9.html#post6230128)
+[diyAudio Symphonic MPD](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd-9.html#post6230128)
 
 이에 대한 나의 견해를 듣기 전에 몇 가지 가정이 있습니다.
 
@@ -264,7 +264,7 @@ printk 및 decimal_frac(u32 v)는 디버깅용이므로 제거할 수 있습니�
 decimal_frac(u32 v)가 무엇을 하는지 잘 기억나지 않습니다.
 2년 전에 추가한 디버깅 코드입니다.
 
-[출처](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd-25.html#post6255443)
+[diyAudio Symphonic MPD](https://www.diyaudio.com/forums/vendor-s-bazaar/355137-symphonic-mpd-25.html#post6255443)
 
 ---
 papalius: 힌트 주셔서 감사합니다. **나는 클럭 재정의를 정말 좋아합니다. 사용하지 않은 PLLA를 재사용하여 각각 44.1 및 48kHz 속도 제품군의 정수배인 두 개의 클록을 제공합니다. 그리고 best_parent 시계가 자동으로 선택되는 위치를 보여주셔서 감사합니다 (즉, 디버그를 추가한 방법).**

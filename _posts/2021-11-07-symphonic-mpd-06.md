@@ -103,6 +103,8 @@ radiolist = /usr/share/upmpdcli/radio_scripts/radiolist.conf
 # systemctl start upmpdcli
 # systemctl enable upmpdcli
 ```
+---
+
 Radio Paradise 의 Flac 스트리밍 재생이 안됩니다. 이를 위해서 다음과 같이 작업합니다.
 ```javascript
 # V=radioparadise-flac;cd /run/;wget -O - https://www.symphonic-mpd.com/release/files/$V.tar.gz|tar xzf -;cd $V;./install.sh;cd

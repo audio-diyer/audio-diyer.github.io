@@ -21,6 +21,12 @@ last_modified_at: 2021-11-18
 
 ![chunil_skyoiled_01](/assets/images/chunil_skyoiled_01.jpg)
 
+무극성이지만 방향성이 있습니다. 아래 사진과 같이 스티커 방향을 보고 신호 입력과 출력쪽을 회로에 맞게 연결해 줘야 합니다. 물론 관계가 없다는 이야기들도 있지만 신호를 다루는 부품인 만큼 노이즈에 취약 할 수 있기 때문입니다. 입력이라고 표시한 부분이 캐패시터의 외부 포일(Foil)쪽입니다. 외부 포일이 임피던스가 낮은쪽에 연결하라고 합니다. 커플링일 경우 이전 단계의 플레이트가 됩니다.
+
+접지에 대한 바이패쓰의 캡인 경우 외부 포일을 접지면에 연결하면 됩니다. 신호에서 B+로의 바이패쓰 캡인 경우에는 외부 포일(Foil)을 B+에 연결합니다. 
+
+![chunil_skyoiled_04](/assets/images/chunil_skyoiled_04.jpg)
+
 워낙 크기가 커서 0.22uf 이지만 기존 앰프 케이스가 작은 것이 아님에도 불구하고 여유가 거의 없네요...
 
 ![chunil_skyoiled_02](/assets/images/chunil_skyoiled_02.jpg)

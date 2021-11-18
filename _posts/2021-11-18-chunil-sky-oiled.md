@@ -1,0 +1,68 @@
+---
+title:  "천일전자 Sky Oiled Audio Foiled Capacitor"
+excerpt: "SMPD v1.0.10"
+
+categories:
+  - 캐패시터
+tags:
+  - [캐패시터, 커플링]
+
+toc: true
+toc_sticky: true
+ 
+date: 2021-11-18
+last_modified_at: 2021-11-18
+---
+얼마 전에 카페에 회원 한 분이 천일전자 캐패시터를 공동 구매를 추진해서 참여해서 몇개를 구매했습니다. 아마도 천일전자 사장님을 아시분이라서 공동 구매를 추진한 것 같은데 예상보다 많은 분들이 참여를 했습니다. 
+
+진공관 앰프에서 소리에 영향을 주는 부품이라고 하면 출력 트랜스와 진공관이 있는데 그 다음으로는 커플링 캐패시터를 꼽습니다. 캐패시터 종류가 많고 가격도 다양한데 개인적으로는 고가의 빈티지나 유명 브랜드 제품 보다는 무난한 폴리프로필렌 캐패시터를 많이 사용하고 있습니다. 개인적으로 빈티지는 연식이 오래된 것들이 많아서 돈은 돈대로 주고 리키지가 있으면 피해가 막대하기 때문에 피합니다. 
+
+주문한 캐패시터를 받았는데 예상은 했지만 크기가 장난이 아닙니다.^^
+
+![chunil_skyoiled_01](/assets/images/chunil_skyoiled_01.jpg)
+
+워낙 크기가 커서 0.22uf 이지만 기존 앰프 케이스가 작은 것이 아님에도 불구하고 여유가 거의 없네요...
+
+![chunil_skyoiled_02](/assets/images/chunil_skyoiled_02.jpg)
+
+일단 외모는 뭔가 있어 보여서 좋습니다.^^
+
+![chunil_skyoiled_03](/assets/images/chunil_skyoiled_03.jpg)
+
+일단 보컬만 몇 곡 들어 봤는데 보컬은 느낌이 나쁘지 않습니다. 이건 교체전 커플링과는 차이가 아주 크지는 않지만 느껴집니다. 오일 좋아하시는 분들이 아마도 이런 소리를 좋아하시는 것이 아닌가 생각했습니다
+
+요즘 테스트하고 있는 Symphonic MPD v0.9.6 을 사용해서 애플뮤직 (ALAC) AirPlay 을 재생하면서 녹음을 했습니다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VaDguJYMgPI" frameborder="0" allowfullscreen></iframe>
+
+---
+
+**흐름도**
+
+소스: 아이폰 7플러스, 애플뮤직 (AirPlay)
+
+|
+
+|
+
+프리: 앰만사 프리앰프, 라즈베리파이3B+ (Symphonic MPD v0.9.6), Allo BOSS DAC (I2s)
+
+|
+
+|
+
+파워(인티)EL3nSE
+
+|
+
+|
+
+소노루-T
+
+**녹음**
+* Samson Meteor 마이크, 노트북 USB 연결
+* 오디오 캡쳐: Audacity 소프트웨어
+* Win10 비디오 편집 소프트웨어
+
+**곡정보**
+Paint My Love / Angela

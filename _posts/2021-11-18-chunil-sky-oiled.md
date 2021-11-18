@@ -50,4 +50,4 @@ last_modified_at: 2021-11-18
 * Win10 비디오 편집 소프트웨어
 
 **곡정보**
-Paint My Love / Angela
+* Paint My Love / Angela

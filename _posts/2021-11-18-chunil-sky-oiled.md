@@ -5,7 +5,7 @@ excerpt: "천일전자 커플링 캐패시터"
 categories:
   - 부품
 tags:
-  - [캐패시터, 커플링]
+  - [캐패시터]
 
 toc: true
 toc_sticky: true

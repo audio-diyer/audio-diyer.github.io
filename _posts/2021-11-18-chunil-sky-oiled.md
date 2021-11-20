@@ -3,7 +3,7 @@ title:  "천일전자 Sky Oiled Audio Foiled Capacitor"
 excerpt: "천일전자 커플링 캐패시터"
 
 categories:
-  - 캐패시터
+  - 부품
 tags:
   - [캐패시터, 커플링]
 

@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: https://audio-diyer.github.io
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"

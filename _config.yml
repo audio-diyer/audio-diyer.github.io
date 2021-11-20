@@ -25,7 +25,7 @@ url                      : "https://audio-diyer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/EL3nSE_teaser.jpg"
-logo                     : "/assets/images/EL3nSE_logo.jpg"
+logo                     : "/assets/images/tube_logo.jpg"
 masthead_title           : "오디오 자작 블로그" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/EL3nSE_teaser.jpg"
+og_image                 : "/assets/images/tube_logo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

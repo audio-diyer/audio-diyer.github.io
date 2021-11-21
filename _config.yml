@@ -24,7 +24,7 @@ description              : "진공관 앰프, DAC, 라즈베리파이, 오픈 �
 url                      : "https://audio-diyer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/EL3nSE_logo_2.jpg"
+teaser                   : "/assets/images/EL3nSE_logo.jpg"
 logo                     : "/assets/images/tube_logo.png"
 masthead_title           : "오디오 자작 블로그" 
 # breadcrumbs            : false # true, false (default)
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "BlackBird"
-  avatar           : "/assets/images/EL3nSE_logo.jpg"
+  avatar           : "/assets/images/EL3nSE_logo_2.jpg"
   bio              : "진공관 앰프 자작, 라즈베리파이를 활용한 디지털 오디오 소스 자작..."
   location         : "South Korea"
   email            : 

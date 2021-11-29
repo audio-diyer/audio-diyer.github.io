@@ -3,7 +3,7 @@ title:  "Symphonic MPD [1] 소개"
 excerpt: "Symphony MPD 개발자가 일본인(영어로 커뮤니케이션 가능함)이고 웹사이트(포럼)가 일본어로 되어 있어서 접근성이 좋지 않습니다. 그런데다가 회원제라서 소프트웨어를 다운받으려면 포럼 관리자의 승인이 필요합니다."
 
 categories:
-  - RaspberryPi
+  - 라즈베리파이
 tags:
   - [라즈베리파이, MPD]
 

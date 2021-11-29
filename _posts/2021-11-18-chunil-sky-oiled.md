@@ -3,7 +3,7 @@ title:  "천일전자 Sky Oiled Audio Foiled Capacitor"
 excerpt: "얼마 전에 카페에 회원 한 분이 천일전자 캐패시터를 공동 구매를 추진해서 참여해서 몇개를 구매했습니다. 아마도 천일전자 사장님을 아시분이라서 공동 구매를 추진한 것 같은데 예상보다 많은 분들이 참여를 했습니다."
 
 categories:
-  - Parts
+  - 부품
 tags:
   - [캐패시터]
 

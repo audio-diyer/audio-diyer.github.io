@@ -3,7 +3,7 @@ title:  "Symphonic MPD [4] 앰프 변경 청음, SMPD 포럼 가입 방법"
 excerpt: "일주일간 PRi3B+ (v0.9.6), RPi4B (v1.0.10) 두 대의 라즈베리파이에 셋팅을 해서 이전에 pCP로 계속 청음을 해 왔던 EL3nSE 에서 청음을 했습니다."
 
 categories:
-  - 라즈베리파이
+  - RaspberryPi
 tags:
   - [라즈베리파이, MPD]
 

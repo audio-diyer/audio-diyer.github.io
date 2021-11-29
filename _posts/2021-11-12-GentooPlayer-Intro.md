@@ -3,7 +3,7 @@ title:  "GentooPlayer 소개 및 사용기"
 excerpt: "리눅스 기반의 여러가지 오디오용 소프트웨어들이 있습니다. Volumio, MoOde 가 아마도 가장 대중적(?)이지 않을까 생각합니다. 사용자층이 많은 것 같지는 않지만 암암리에 이름이 알려진 소프트웨어들이 있는데 그 중 하나가 GentooPlayer 입니다."
 
 categories:
-  - 라즈베리파이
+  - RaspberryPi
 tags:
   - [라즈베리파이, GentooPlayer]
 

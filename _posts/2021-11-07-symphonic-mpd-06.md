@@ -3,7 +3,7 @@ title:  "Symphonic MPD [6] 라즈베리파이 4B에 설치 및 사용기"
 excerpt: "라즈베리파이 4B용으로 포럼에 올라와 있는 버전은 v1.0.7 버전인데 라즈베리파이 4B Rev1.1 또는 Rev1.2 버전 전용입니다. 문제는 새로 구매하는 라즈베리파이의 경우 Rev1.4 일 가능성이 매우 높습니다."
 
 categories:
-  - 라즈베리파이
+  - RaspberryPi
 tags:
   - [라즈베리파이, MPD]
 

@@ -21,7 +21,7 @@ title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BlackBird"
 description              : "진공관 앰프, DAC, 라즈베리파이, 오픈 소스 기반의 오디오용 소프트웨어 활용하는 블로그"
-url                      : "http://localhost:4000"
+url                      : "https://audio-diyer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/EL3nSE_teaser.jpg"

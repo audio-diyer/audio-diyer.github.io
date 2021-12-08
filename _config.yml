@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "오디오 자작"
+title                    : "앰프를 만드는 사람"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "BlackBird"
+name                     : "앰프를 만드는 사람"
 description              : "진공관 앰프, DAC, 라즈베리파이, 오픈 소스 기반의 오디오용 소프트웨어 활용하는 블로그"
 url                      : "https://audio-diyer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

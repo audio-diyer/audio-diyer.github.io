@@ -23,16 +23,16 @@ name                     : "앰프를 만드는 사람"
 description              : "진공관 앰프, DAC, 라즈베리파이, 오픈 소스 기반의 오디오용 소프트웨어 활용하는 블로그"
 url                      : "https://audio-diyer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "audio-diyer/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/EL3nSE_teaser.jpg"
 logo                     : "/assets/images/tube_logo.png"
 masthead_title           : "오디오 자작 블로그" 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # "disqus"
+  provider               : "utterances"
   disqus:
-    shortname            : "audio-diyer-github-io"
+    shortname            : #"audio-diyer-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : minimal-mistakes-jekyll # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light"
+    issue_term           : "pathname"
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category

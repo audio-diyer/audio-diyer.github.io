@@ -57,11 +57,11 @@ MPD 클라언트로 ympd (웹) 이 아니라 Windows 에 Cantata 나 스마트�
 
 웹인터페이스 대신 아이폰 yaMPC 앱을 사용할 수 있습니다.
 
-![smpd v0.9.6 06](/assets/images/smpd-v096-06.png){: width="50%" height="50%"}
+![smpd v0.9.6 06](/assets/images/smpd-v096-06.png){: width="50%" height="50%"}{: .align-center}
 
 전 아이폰으로 AirPlay 로 애플 뮤직을 재생해 봤는데 마음에 들었습니다. 아이폰을 소스로 많이 사용하지 않았는데 애플 뮤직이 무손실으로 업그래이드가 되어서 앞으로 많이 사용해야할 듯합니다.  유투브 음악도 Airplay로 앰프로 바로 재생하는 것이 편리합니다.  
 
-![smpd v0.9.6 07](/assets/images/smpd-v096-07.png){: width="50%" height="50%"}
+![smpd v0.9.6 07](/assets/images/smpd-v096-07.png){: width="50%" height="50%"}{: .align-center}
 
 Spotify 는 가입이 안되어 있어서 테스트를 못했지만 별도의 설정 메뉴가 있는것으로 봐서 잘 작동하리라 생각합니다.
 
@@ -77,10 +77,10 @@ upmpdcli 소스를 컴파일하면 되는데 SMPD가 너무 오래된 배포판�
 
 이제 Linn Kazoo 를 이용해서 Minim Server 의 음원을 재생할 수 있습니다. 국내 라디오도 셋팅을 했는데 KBS Classic FM은 재생이 안되고 CBS 음악 FM 은 재생이 됩니다. 아마도 SMPD의 MPD 때문이거나 뭔가 패키지가 빠져서 그런 것 같은데 원인을 찾아봐야 할 것 같습니다.
 
-![smpd v0.9.6 08](/assets/images/smpd-v096-08.png){: width="50%" height="50%"}
+![smpd v0.9.6 08](/assets/images/smpd-v096-08.png){: width="50%" height="50%"}{: .align-center}
 
  Mconnect 에서 Qobuz, Tidal 을 사용할 수 있습니다. 플라시보인지 음질도 더 좋은 것 같습니다.^^ 
 
-![smpd v0.9.6 09](/assets/images/smpd-v096-09.png){: width="50%" height="50%"}
+![smpd v0.9.6 09](/assets/images/smpd-v096-09.png){: width="50%" height="50%"}{: .align-center}
 
 저가형 i2s 슬레이브 방식의 DAC에서 이 정도면 본전을 뽑고도 남을 정도의 음질인 것 같습니다....

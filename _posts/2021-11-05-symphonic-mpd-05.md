@@ -3,7 +3,7 @@ title:  "Symphonic MPD [5] 라즈베리파이3 용 v0.9.6 사용기"
 excerpt: "혹시나 SMPD를 사용할 분들을 위한 미리 먼저 사용하면서 알아낸 정보를 공유합니다."
 
 categories:
-  - 라즈베리파이
+  - SMPD
 tags:
   - [라즈베리파이, MPD]
 

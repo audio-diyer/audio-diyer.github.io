@@ -3,9 +3,9 @@ title:  "Hifiberry OS 설치 기록 및 간단 리뷰"
 excerpt: "Hifiberry OS 는 이름에서 알 수 있듯이 Hifiberry 사에서 제공하는 음악 재생용 소프트웨어입니다. Volumio, moOde 와 유사한 소프트웨어인데 Hifiberry 사의 DAC 제품들만 지원합니다.​"
 
 categories:
-  - 라즈베리파이
+  - HiFiBerryOS
 tags:
-  - [라즈베리파이, Hifiberry-OS, 터치스크린]
+  - [라즈베리파이, HiFiBerryOS, 터치스크린]
 
 toc: true
 toc_sticky: true

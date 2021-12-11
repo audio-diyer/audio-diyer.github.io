@@ -3,7 +3,7 @@ title:  "Symphonic MPD [2] 기술적 고찰"
 excerpt: "Symphonic MPD (이하 smpd)를 설치해서 일주일 가까이 앰프, 스피커도 변경하면서 다양한 방식으로 청음을 하면서 도대체 어떤 방식의 튜닝이 적용되었는지 궁금해지기 시작했습니다."
 
 categories:
-  - 라즈베리파이
+  - SMPD
 tags:
   - [라즈베리파이, MPD]
 

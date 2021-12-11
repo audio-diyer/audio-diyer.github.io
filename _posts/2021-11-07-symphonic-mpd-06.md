@@ -117,19 +117,19 @@ AoE는 나중에 기회가 되면 테스트해 보기로 하고 저는 좀더 �
 
 기존에 운영하고 있는 LMS 와 SMPD 에 설치한 UPNP 와 연동했습니다. 이렇게 하면 LMS에 설정해서 사용하고 있는 음원, 타이달, 라디오 방송을 그대로 이용할 수 있습니다.  
 
-![smpd v1.0.10 01](/assets/images/smpd-v100-08.png)
+![smpd v1.0.10 01](/assets/images/smpd-v100-08.png){: width="50%" height="50%"}{: .align-center}
 
-![smpd v1.0.10 01](/assets/images/smpd-v100-09.png)
+![smpd v1.0.10 01](/assets/images/smpd-v100-09.png){: width="50%" height="50%"}{: .align-center}
 
 DLNA/UPNP 미디어 서버가 있다면 Linn Kazoo 앱을 콘트롤러로 사용해서 음원을 재생할 수 있습니다.
 
-![smpd v1.0.10 01](/assets/images/smpd-v100-10.png)
+![smpd v1.0.10 01](/assets/images/smpd-v100-10.png){: width="50%" height="50%"}{: .align-center}
 
 Linn Kzaoo 에서 국내 라디오는 재생이 불가능합니다만 HLS가 아닌 다른 방송은 청취가 가능합니다. (Radio Paradise, LINN... )
 
-![smpd v1.0.10 01](/assets/images/smpd-v100-11.png)
+![smpd v1.0.10 01](/assets/images/smpd-v100-11.png){: width="50%" height="50%"}{: .align-center}
 
 Mconnect 앱도 사용할 수 있습니다.
 
-![smpd v1.0.10 01](/assets/images/smpd-v100-12.png)
+![smpd v1.0.10 01](/assets/images/smpd-v100-12.png){: width="50%" height="50%"}{: .align-center}
 

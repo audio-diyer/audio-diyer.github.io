@@ -318,8 +318,9 @@ body {
    ========================================================================== */
 
 .page__taxonomy {
+  margin-top: -10px;
   .sep {
-    display: none;
+    display: inline;
   }
 
   strong {
@@ -328,7 +329,7 @@ body {
 }
 
 .page__taxonomy-item {
-  display: inline-block;
+  display: inside;
   margin-right: 5px;
   margin-bottom: 8px;
   padding: 5px 10px;

@@ -108,6 +108,13 @@
         <span class="nav__sub-title">etc</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "REW" %}
+                        <li><a href="/categories/REW" class="">Room EQ Wizard ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>  
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Coupling" %}
                         <li><a href="/categories/coupling" class="">커플링 캐패시터 ({{category[1].size}})</a></li>
                     {% endif %}

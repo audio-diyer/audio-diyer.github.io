@@ -78,6 +78,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "moOde" %}
+                        <li><a href="/categories/moode" class="">moOde Audio Player ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "SMPD" %}
                         <li><a href="/categories/smpd" class="">Symphonic MPD ({{category[1].size}})</a></li>
                     {% endif %}

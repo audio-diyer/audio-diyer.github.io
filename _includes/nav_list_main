@@ -101,7 +101,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Sonoro" %}
-                        <li><a href="/categories/sonoro" class="">소노루-T ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Sonoro" class="">소노루-T ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>     

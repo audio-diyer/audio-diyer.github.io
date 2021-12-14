@@ -97,7 +97,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-         
+         <span class="nav__sub-title">Speaker</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Sonoro" %}
+                        <li><a href="/categories/sonoro" class="">소노루-T ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>     
         <span class="nav__sub-title">etc</span>
             <ul>
                 {% for category in site.categories %}
